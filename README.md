@@ -1,7 +1,7 @@
 # W3rnerZ79.github.io
 # Welcome to My Supply Chain & Tech Portfolio!
 
-Hi, I'm a Supply Chain Major with an IST Minor. I bridge the gap between logistics strategy and technology, focusing on how automation and data analytics optimize operations.
+Hi, My name is Zachary Werner, I'm a Supply Chain Major with an IST Minor. I bridge the gap between logistics strategy and technology, focusing on how automation and data analytics optimize operations.
 
 ---
 
